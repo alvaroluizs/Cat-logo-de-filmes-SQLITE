@@ -25,6 +25,7 @@ Este é um projeto de console desenvolvido em **C#** para gerenciar um banco de 
 
 
 🧪 Exemplo de Uso
+
 ====== Menu Filmes =====
 1. Listar Filmes
 2. Buscar Filme por ID
@@ -36,6 +37,9 @@ Escolha uma opção:
 
 
 👨‍💻 Autor
+
+
 Desenvolvido por Alvaro Luiz
+
 📧 alvaroluiz217@gmail.com
 
