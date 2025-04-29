@@ -22,7 +22,7 @@ class Program
             // Menu principal
             while (true)
             {
-                Console.WriteLine("\n===== Menu Filmes =====");
+                Console.WriteLine("\n====== Menu Filmes =====");
                 Console.WriteLine("1. Listar Filmes");
                 Console.WriteLine("2. Buscar Filme por ID");
                 Console.WriteLine("3. Cadastrar Filme");
