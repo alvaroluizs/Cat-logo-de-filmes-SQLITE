@@ -23,10 +23,19 @@ Este é um projeto de console desenvolvido em **C#** para gerenciar um banco de 
 - SQLite instalado (ou via pacote NuGet)
 - Ambiente de terminal (CMD, PowerShell ou Bash)
 
-## 🚀 Como Executar
 
-1. Clone o repositório:
+🧪 Exemplo de Uso
+====== Menu Filmes =====
+1. Listar Filmes
+2. Buscar Filme por ID
+3. Cadastrar Filme
+4. Atualizar Filme
+5. Deletar Filme
+0. Sair
+Escolha uma opção:
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+
+👨‍💻 Autor
+Desenvolvido por Alvaro Luiz
+📧 alvaroluiz217@gmail.com
+
